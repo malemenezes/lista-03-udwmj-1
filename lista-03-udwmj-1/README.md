@@ -46,4 +46,4 @@ Onde:
 
 ## Autor
 
-Pedro Nunes - RA: 12411447
+Maria Letícia Menezes - RA: 12320020
